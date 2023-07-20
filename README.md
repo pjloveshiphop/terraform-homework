@@ -1,6 +1,7 @@
 # terraform-homework
 
 ### this repo contains 5 modules: ec2, vpc, security group, s3 and dynamodb
+*** s3 remote backend isnt configured *** </br>
 </br>
 code will create the followings; </br>
 </br>
